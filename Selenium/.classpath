@@ -6,3 +6,5 @@
 	<classpathentry kind="lib" path="Lib/org.apache.commons.io.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
+</classpath>
+
